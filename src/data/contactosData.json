@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "alex",
+        "apellido": "ricar",
+        "telefono": "809-999-9999",
+        "celular": "809-999-9999",
+        "correo": "ricar@gmail.com"
+    },
+    {
+        "codigo": 2,
+        "nombre": "alex",
+        "apellido": "ricar",
+        "telefono": "809-999-9999",
+        "celular": "809-999-9999",
+        "correo": "ricar@gmail.com"
+    },
+    {
+        "codigo": 3,
+        "nombre": "alex",
+        "apellido": "ricar",
+        "telefono": "809-999-9999",
+        "celular": "809-999-9999",
+        "correo": "ricar@gmail.com"
+    }
+]

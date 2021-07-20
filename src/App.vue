@@ -1,8 +1,11 @@
 <template>
   <div id="app">
     <div id="nav">
+      <h1>Bienbanidos a mi app de contactos para esta prueba</h1>
+      <br/>
+      <br/>
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/nuevo">Nuevo</router-link>
     </div>
     <router-view/>
   </div>
